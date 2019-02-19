@@ -1,0 +1,15 @@
+---
+layout: post
+title: Post title here.
+categories: blog
+author_picture: https://avatars2.githubusercontent.com/u/6836179
+seo-title: Fatjars, Thinwars and why OpenLiberty is cool - OpenLiberty.io
+seo-description: Phillip Krüger from the Java community provides an overview of the pros and cons of fatjars (in which everything needed to run your application is packaged in your app JAR file), and why thinwars (in which only your app is in your app WAR file) are lighter and faster for containerised apps.
+blog_description: "Phillip Krüger from the Java community provides an overview of the pros and cons of fatjars (in which everything needed to run your application is packaged in your app JAR file), and why thinwars (in which only your app is in your app WAR file) are lighter and faster for containerised apps."
+redirect_link: 'link'
+permalink: https://www.phillip-kruger.com/post/fatjars_thinwars_and_why_openliberty_is_cool/
+---
+= Fatjars, thinwars and why OpenLiberty is cool
+Phillip Krüger <https://github.com/phillip-kruger>
+
+Phillip Krüger from the Java community provides an overview of the pros and cons of fatjars (in which everything needed to run your application is packaged in your app JAR file), and why thinwars (in which only your app is in your app WAR file) are lighter and faster for containerised apps. He provides a runnable example of how, with Open Liberty, you don't need to decide whether to deploy a fatjar or a thinwar until deployment time.
